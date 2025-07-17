@@ -1,4 +1,4 @@
-# project
+# AIDOC Frontend
 
 A new Flutter project.
 
